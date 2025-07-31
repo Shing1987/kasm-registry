@@ -36,8 +36,7 @@
       "image": "linuxserver/altus:latest",
       "uncompressed_size_mb": 1230
       "available_tags": [
-        "develop",
-        "1.16.0"
+        "develop"
         ]
     },
     {
@@ -45,8 +44,7 @@
       "image": "linuxserver/altus:latest",
       "uncompressed_size_mb": 1230
       "available_tags": [
-        "develop",
-        "1.17.0"
+        "develop"
         ]
     }
   ]
