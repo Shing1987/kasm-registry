@@ -37,7 +37,7 @@
       "uncompressed_size_mb": 1230
       "available_tags": [
         "develop",
-        "latest"
+        "1.16.0"
         ]
     },
     {
@@ -46,7 +46,7 @@
       "uncompressed_size_mb": 1230
       "available_tags": [
         "develop",
-        "latest"
+        "1.17.0"
         ]
     }
   ]
