@@ -37,15 +37,17 @@
       "uncompressed_size_mb": 1230
       "available_tags": [
         "develop",
-        "1.16.1"
+        "latest"
+        ]
     },
     {
-      "version": "1.17.x",
+      "version": "1.17.0",
       "image": "linuxserver/altus:latest",
       "uncompressed_size_mb": 1230
       "available_tags": [
         "develop",
-        "1.17.0"
+        "latest"
+        ]
     }
   ]
 }
