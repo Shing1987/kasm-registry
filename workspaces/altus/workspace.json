@@ -33,12 +33,12 @@
   "compatibility": [
     {
       "version": "1.16.x",
-      "image": "lscr.io/linuxserver/altus:latest",
+      "image": "linuxserver/altus:latest",
       "uncompressed_size_mb": 1230
     },
     {
       "version": "1.17.x",
-      "image": "lscr.io/linuxserver/altus:latest",
+      "image": "linuxserver/altus:latest",
       "uncompressed_size_mb": 1230
     }
   ]
