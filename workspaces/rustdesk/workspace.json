@@ -33,12 +33,12 @@
   "compatibility": [
     {
       "version": "1.16.x",
-      "image": "lscr.io/linuxserver/rustdesk:1.3.9",
+      "image": "lscr.io/linuxserver/rustdesk:1.4.0-LS58",
       "uncompressed_size_mb": 2470
     },
     {
       "version": "1.17.x",
-      "image": "lscr.io/linuxserver/rustdesk:1.3.9",
+      "image": "lscr.io/linuxserver/rustdesk:1.4.0-LS58",
       "uncompressed_size_mb": 2470
     }
   ]
