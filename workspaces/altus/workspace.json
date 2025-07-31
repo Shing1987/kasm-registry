@@ -15,7 +15,7 @@
   "enabled": true,
   "image_type": "Container",
   "run_config": {
-	      "security_opt": [
+    "security_opt": [
       "seccomp=unconfined"
     ],
     "entrypoint": [
