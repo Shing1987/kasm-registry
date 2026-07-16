@@ -40,6 +40,21 @@
       "version": "1.17.x",
       "image": "lscr.io/linuxserver/remmina:latest",
       "uncompressed_size_mb": 1660
+    },
+    {
+      "version": "1.18.x",
+      "image": "lscr.io/linuxserver/remmina:latest",
+      "uncompressed_size_mb": 1660
+    },
+    {
+      "version": "1.19.x",
+      "image": "lscr.io/linuxserver/remmina:latest",
+      "uncompressed_size_mb": 1660
+    },
+    {
+      "version": "1.20.x",
+      "image": "lscr.io/linuxserver/remmina:latest",
+      "uncompressed_size_mb": 1660
     }
   ]
 }
